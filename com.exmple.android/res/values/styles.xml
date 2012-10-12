@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.Holo" >
+        <item name="android:freezesText">true</item>
+    </style>
+    
+    <style name="NoFreezeTheme" parent="@style/AppTheme" >
+        <item name="android:freezesText">false</item>
+    </style>
+</resources>

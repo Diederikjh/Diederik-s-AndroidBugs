@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">com.exmple.android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_preferences">PreferencesActivity</string>
+    <string name="PreferenceServerURLDefault">http://example.com</string>
+    <string name="PreferenceServerURLKey">PreferenceServerURL</string>
+    <string name="PreferenceServerURLTitle">Server URL</string>
+    <string name="PreferenceUsernameDefault"></string>
+    <string name="PreferenceUsernameKey">PreferenceUsername</string>
+    <string name="PreferenceUsernameTitle">Username</string>
+</resources>
